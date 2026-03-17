@@ -9,133 +9,160 @@ Projeto de planejamento da implantação de um sistema ERP em uma empresa
 
 ## 🏢 Sobre a Empresa
 
-**Nome:** Novaprint  
-**Segmento:** Serviços gráficos e comunicação visual  
-**Porte:** Pequena empresa  
-**Funcionários:** 7  
-**Usuários do ERP:** 5  
-**Tipo de negócio:** Prestação de serviços gráficos  
+- **Empresa:** Novaprint  
+- **Segmento:** Serviços gráficos e comunicação visual  
+- **Fundação:** 3 jovens empreendedores  
+- **Tempo de mercado:** 10 anos  
+- **Atuação:** Estado do Rio de Janeiro  
+- 🏆 **Prêmio:** Valor Inovação Brasil 2025  
+
+---
+
+## 📍 Localização
+
+- **Endereço:** Rua Darke de Mattos, 28 – Higienópolis  
+
+### 🚗 Acessos:
+- Linha Amarela  
+- Linha Vermelha  
+- Avenida Brasil  
+
+### ⏱️ Distâncias:
+- 20 min do Centro  
+- 30 min da Barra  
 
 ---
 
 ## 🏗️ Estrutura Organizacional
 
-| Código | Departamento     | Responsabilidade                          |
-|--------|----------------|------------------------------------------|
-| DEP01  | Comercial       | Vendas e relacionamento com clientes     |
-| DEP02  | Marketing       | Criação de artes gráficas                |
-| DEP03  | Financeiro      | Contas a pagar e receber                |
-| DEP04  | Compras         | Contratação de serviços terceirizados    |
-| DEP05  | Administrativo  | Apoio operacional                        |
-| DEP06  | Recepção        | Atendimento inicial ao cliente           |
+- Diretoria  
+- Comercial  
+- Marketing  
+- Financeiro  
+- Compras  
+- Administrativo  
+- Recepção  
 
 ---
 
-## 👥 Funcionários
+## ⚠️ Problemas Identificados
 
-| ID     | Cargo                     | Departamento     | Salário   |
-|--------|--------------------------|------------------|----------|
-| FUNC01 | Vendedor                 | Comercial        | R$ 2.500 |
-| FUNC02 | Designer                 | Marketing        | R$ 2.100 |
-| FUNC03 | Analista Financeiro      | Financeiro       | R$ 2.900 |
-| FUNC04 | Comprador                | Compras          | R$ 2.349 |
-| FUNC05 | Auxiliar Administrativo  | Administrativo   | R$ 2.000 |
-| FUNC06 | Auxiliar Administrativo  | Administrativo   | R$ 2.000 |
-| FUNC07 | Recepcionista            | Recepção         | R$ 2.000 |
+- Processos manuais  
+- Falta de integração entre setores  
+- Dificuldade no controle financeiro  
+- Retrabalho e falhas operacionais  
 
 ---
 
-## 🛠️ Serviços Oferecidos
+## 💡 Solução Proposta
 
-| Código | Serviço             | Categoria              |
-|--------|--------------------|------------------------|
-| SRV01  | Adesivação         | Comunicação visual     |
-| SRV02  | Cartão de visita   | Impressão              |
-| SRV03  | Panfleto           | Impressão              |
-| SRV04  | Criação de arte    | Design                 |
+Implantação de um sistema ERP com foco em:
 
----
-
-## 💰 Tabela de Preços
-
-### 🧾 Adesivação
-| Código | Descrição                 | Preço        |
-|--------|--------------------------|-------------|
-| AD001  | Preto e Branco           | R$ 49,90/m² |
-| AD002  | Colorido                 | R$ 69,90/m² |
-
-### 📇 Cartão de Visita
-| Código | Quantidade | Preço  |
-|--------|-----------|--------|
-| CV001  | 1000      | R$ 200 |
-| CV002  | 3000      | R$ 350 |
-| CV003  | 5000      | R$ 500 |
-
-### 📄 Panfletos
-| Código | Quantidade | Preço  |
-|--------|-----------|--------|
-| PF001  | 1000      | R$ 180 |
-| PF002  | 3000      | R$ 280 |
-| PF003  | 5000      | R$ 365 |
-
-### 🎨 Criação de Arte
-| Código | Serviço              | Preço |
-|--------|----------------------|------|
-| ART01  | Arte gráfica         | R$ 50 |
+- Integração dos setores  
+- Automação de processos  
+- Controle financeiro eficiente  
+- Melhor tomada de decisão  
 
 ---
 
-## 🤝 Fornecedores
+## 🖥️ Sistema Escolhido
 
-| Código | Serviço                          | Tipo       |
-|--------|----------------------------------|------------|
-| FOR01  | Impressão terceirizada           | Produção   |
-| FOR02  | Comunicação visual terceirizada  | Produção   |
+**ERP TOTVS**
 
----
-
-## 📉 Custos de Produção
-
-### Adesivos
-| Tipo            | Custo        |
-|-----------------|-------------|
-| Preto e branco  | R$ 29,90/m² |
-| Colorido        | R$ 39,90/m² |
-
-### Cartões de Visita
-| Quantidade | Custo  |
-|-----------|--------|
-| 1000      | R$ 100 |
-| 3000      | R$ 170 |
-| 5000      | R$ 300 |
-
-### Panfletos
-| Quantidade | Custo  |
-|-----------|--------|
-| 1000      | R$ 100 |
-| 3000      | R$ 180 |
-| 5000      | R$ 260 |
+- Sistema consolidado no mercado  
+- Integra todos os setores  
+- Ideal para pequenas e médias empresas  
+- Alta confiabilidade  
 
 ---
 
-## 💸 Custos Fixos
+## ⚙️ Módulos do ERP
 
-| Código | Despesa  | Valor            |
-|--------|----------|------------------|
-| CF001  | Aluguel  | R$ 1.890         |
-| CF002  | Água     | R$ 300 a R$ 400  |
-| CF003  | Energia  | R$ 250 a R$ 500  |
+| Módulo      | Função                              |
+|------------|------------------------------------|
+| Vendas     | Gestão de pedidos e clientes       |
+| Financeiro | Controle financeiro                |
+| Compras    | Gestão de fornecedores             |
+| CRM        | Relacionamento com clientes        |
+| Estoque    | Controle de materiais              |
+| Relatórios | Análise gerencial                  |
 
 ---
 
-## 🔄 Processos de Negócio
+## 🧠 Metodologias Utilizadas
 
-```mermaid
-graph TD
-A[Cliente solicita orçamento] --> B[Recepção registra pedido]
-B --> C[Comercial valida orçamento]
-C --> D[Marketing cria arte]
-D --> E[Compras verifica terceirização]
-E --> F[Produção / Fornecedor executa]
-F --> G[Financeiro gera cobrança]
-G --> H[Entrega ao cliente]
+### 📊 Tradicional (PMBOK)
+- Planejamento  
+- Cronograma  
+- Gestão de riscos  
+
+### ⚡ Ágil (Scrum / Kanban)
+- Entregas rápidas  
+- Flexibilidade  
+- Melhor adaptação a mudanças  
+
+---
+
+## 📅 Cronograma do Projeto
+
+1. Planejamento  
+2. Levantamento de requisitos  
+3. Configuração  
+4. Testes  
+5. Treinamento  
+6. Go-live  
+7. Pós-implantação  
+
+⏱️ **Duração total: 10 semanas**
+
+---
+
+## ⚠️ Matriz de Riscos
+
+### Principais riscos:
+- Resistência dos funcionários  
+- Falha na migração de dados  
+- Atrasos  
+
+### Mitigações:
+- Treinamento da equipe  
+- Testes rigorosos  
+- Monitoramento contínuo  
+
+---
+
+## 💰 Orçamento do Projeto
+
+| Item            | Valor      |
+|----------------|-----------|
+| ERP            | R$ 5.000  |
+| Consultoria    | R$ 8.000  |
+| Treinamento    | R$ 2.000  |
+| Infraestrutura | R$ 3.000  |
+| Suporte        | R$ 2.000  |
+
+💸 **Total: R$ 20.000**
+
+---
+
+## 📊 Benefícios Esperados
+
+- Redução de erros operacionais  
+- Maior controle financeiro  
+- Aumento da produtividade  
+- Melhor tomada de decisão  
+
+---
+
+## ✅ Conclusão
+
+- Projeto viável  
+- Alto impacto positivo  
+- Empresa mais organizada  
+- Preparada para crescimento  
+
+---
+
+## 🙌 Encerramento
+
+Obrigado por acompanhar o projeto!  
