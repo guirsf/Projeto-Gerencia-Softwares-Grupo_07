@@ -1,4 +1,4 @@
-# Projeto-Gerencia-Softwares-Grupo_06
+# Projeto-Gerencia-Softwares-Grupo_09
 Projeto de planejamento da implantação de um sistema ERP em uma empresa
 
 # 🖨️ Implantação de Sistema ERP – Novaprint
